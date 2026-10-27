@@ -1,0 +1,27 @@
+# Samuel Keter — Cloud Security & DevSecOps Leader
+
+> Samuel Keter is a cloud security and DevSecOps leader and consultant based in Nairobi, Kenya, with more than 10 years of experience securing fintech and tier-1 banking systems. He is currently Staff Engineering Manager, Cloud Security & Compliance at Yassir, and previously worked with KPMG East Africa, Equity Bank Group and PwC Kenya. He holds CCISO (2019) and CEH (2016) certifications and a BSc in Computer Science from Kabarak University.
+
+## Expertise
+- Cloud security architecture across AWS, Azure and Google Cloud
+- DevSecOps and CI/CD pipeline security, IaC scanning, Kubernetes security
+- Fintech and tier-1 banking security: PCI DSS, ISO 27001, SOC 2, NIST, Zero Trust
+- IAM hardening, threat modeling, incident command, GRC and audit readiness
+- Team leadership: security strategy, board-level reporting, multi-subsidiary oversight
+
+## Key results
+- Cut critical cloud vulnerabilities from 48 to 5
+- Cut open audit findings from 22 to 3
+- Reduced mean incident response time from 45 minutes to 8 minutes
+- Security assurance across 6 subsidiaries
+
+## Availability
+- Security-leadership roles: remote-first, or relocation to UK / EU / UAE / Singapore / US with sponsorship
+- Cloud security and DevSecOps consulting, especially fintech and banking
+- Based in Nairobi, Kenya (GMT+3)
+
+## Contact
+- Email: samuelketer001@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuelketer001
+- GitHub: https://github.com/wizard2773
+- Website: https://wizard2773.github.io/
